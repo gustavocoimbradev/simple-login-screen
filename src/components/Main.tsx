@@ -38,10 +38,12 @@ export function Main() {
                 <div className="flex items-center gap-4 w-full mt-4 xl:mt-2">
                     <div className="flex gap-2">
                         <input type="checkbox"/>
-                        <span className="text-white text-[10px] underline">I agree with the end user license agreemen</span>
+                        <span className="text-white text-[10px] underline">I agree with the end user license agreement</span>
                     </div>
                     <div className="flex flex-col flex-1 text-end">
                         <a href="#" className="text-white text-[10px] underline">I need help &gt;</a>
+                    </div>
+                    <div className="hidden xl:block w-[40px]">
                     </div>
                 </div>
                 
