@@ -41,7 +41,7 @@ export function Main() {
                         <span className="text-white text-[10px] underline">I agree with the end user license agreemen</span>
                     </div>
                     <div className="flex flex-col flex-1 text-end">
-                        <a href="#" className="text-white text-[10px] underline">I need help ></a>
+                        <a href="#" className="text-white text-[10px] underline">I need help &gt;</a>
                     </div>
                 </div>
                 
